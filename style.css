@@ -70,6 +70,13 @@ button {
     }
 }
 
+#colorPicker {
+    width: 100px;
+    height: 100px;
+    border: none;
+    cursor: pointer;
+}
+
 .header {
     padding: 30px 0;
 }
